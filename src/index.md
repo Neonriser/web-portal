@@ -9,7 +9,7 @@ altad_title: SurfScape Directory
 altad_image: directory_avert
 ---
 
-## Begin your jorney!
+## Begin your Journey!
 
 Welcome to the new SurfScape, **your friendly Neocities web portal** inspired by the aesthetics and values of the early web era. Our mission is to **revive** the spirit of a web that is free, creative, open, and community-driven.
 
