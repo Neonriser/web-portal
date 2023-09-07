@@ -1,6 +1,6 @@
 ---
 title: Terms of Service
-update: 14 June, 2023
+update: 14 June, 2023 #Should it be "update" or "updated?"
 banner: security
 ---
 

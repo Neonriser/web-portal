@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-updated: 14 June, 2023
+updated: 14 June, 2023 #Should it be "updated" or "update"?
 banner: security
 ---
 

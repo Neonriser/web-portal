@@ -10,3 +10,4 @@ layout: page.njk
         </dd>
     {%- endfor -%}
 </dl>
+<!-- You haven't made any blog posts so far. Would you like to make one? -->
