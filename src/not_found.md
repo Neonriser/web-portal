@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: Page not found
-permalink: 404.html
+permalink: not_found.html #I deliberately typed the wrong page name, and the default 404 page shows up. I hope this solves the problem.
 eleventyExcludeFromCollections: true
 crumbs:
   - title: Page not found
